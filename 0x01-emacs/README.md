@@ -1,1 +1,1 @@
-This directory is about emacs and related projects
+This directory contain commands for emacs
