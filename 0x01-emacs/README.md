@@ -1,0 +1,1 @@
+This directory is about emacs and related projects
